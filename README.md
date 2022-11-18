@@ -3,4 +3,5 @@ THE ONLY THING I DID WAS TAKE A SCRIPT THAT SOMEBODY GAVE ME IN ORDER TO CHECK A
 
 # Loadstring
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/RealLobs/Dex-V4/master/source'))()
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RealLobs/Dex-V4/master/source'))()```
