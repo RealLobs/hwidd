@@ -19,3 +19,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/RealLobs/Dex-V4/maste
 
 # More info
 
+Script not made by lobs
